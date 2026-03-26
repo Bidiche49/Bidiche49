@@ -30,11 +30,15 @@
                                                                             
   ---                                          
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-nicolazic.dev-059669?style=for-the-badge&logo=safari&logoColor=white)](https://nicolazic.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolazic_Tardy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolazic-tardy)
-
+ <div align="center">                                                                                                                                                      
+                                                                                                                                                                            
+  [![Portfolio](https://img.shields.io/badge/nicolazic.dev-059669?style=for-the-badge&logo=safari&logoColor=white)](https://nicolazic.dev)                                  
+  &nbsp;&nbsp;                                                                        
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolazic-tardy)                
+                                                                                                                                                                            
+  </div>   
 
 
 
 [![](https://visitcount.itsvg.in/api?id=Bidiche49&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<div align="center">
+</div>
